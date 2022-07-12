@@ -1,0 +1,9 @@
+GUY
+0
+Player 1 Hand goes here
+PETE
+0
+Player 2 hand goes here
+current board state goes here
+Tile bag content goes here
+GUY
